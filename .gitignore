@@ -1,0 +1,14 @@
+# Node / IntelliJ / build artifacts
+node_modules/
+dist/
+frontend/dist/
+/.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
