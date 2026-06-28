@@ -5,6 +5,7 @@
   "projects": {
     "frontend": {
       "projectType": "application",
+      "root": "",
       "sourceRoot": "src"
     }
   }
